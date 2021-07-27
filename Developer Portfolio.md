@@ -1,4 +1,4 @@
-## what is Developer Portfolio
+# Why Developer Portfolio
 *Creating a portfolio is a great way for new and seasoned web developers to showcase their talent, skillset, design style, and creativity.*
 
 https://www.noupe.com/design/web-developer-portfolio-examples.html
