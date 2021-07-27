@@ -2,7 +2,7 @@
 
 # Solution: 
 - No need to assume 'x' and make any type of question.
-- Shortcut Method: just halve the given number of legs, and substract from it the number of heads, then will get the number of four-legged animal.
+- Shortcut Method: just halve the given number of legs, and subtract from it the number of heads, then will get the number of four-legged animal.
 - 110/2=55
 - 55-35=20 4-legged animals.
 - 35-20=15 2-legged animals.
